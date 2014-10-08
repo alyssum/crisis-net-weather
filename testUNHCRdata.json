@@ -1,0 +1,730 @@
+{
+    "data": [
+        {
+            "content": "7515 individuals reported at Burubiey Transit site in Ethiopia", 
+            "createdAt": "2014-09-02T23:20:46.866589", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Ethiopia", 
+                    "adminArea3": "Gambella"
+                }, 
+                "coords": [
+                    33.2305, 
+                    8.42424
+                ]
+            }, 
+            "id": "BaoKToSnRZWU4qexeG05VA", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-09-02T18:57:39", 
+            "remoteID": "southsudan_urubieyransitsite_1409684259", 
+            "source": "unhcr", 
+            "summary": "7515 individuals reported at Burubiey Transit site in Ethiopia", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 7515, 
+            "updatedAt": "2014-09-02T23:20:46.866598"
+        }, 
+        {
+            "content": "139289 individuals reported at Egypt in Egypt", 
+            "createdAt": "2014-09-02T23:20:48.537982", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Egypt", 
+                    "adminArea3": "Egypt"
+                }, 
+                "coords": [
+                    31.2357116, 
+                    30.0444196
+                ]
+            }, 
+            "id": "lSldLiHBRPCPe_u2KRNS7g", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-09-02T15:27:38", 
+            "remoteID": "syria_gypt_1409671658", 
+            "source": "unhcr", 
+            "summary": "139289 individuals reported at Egypt in Egypt", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 139289, 
+            "updatedAt": "2014-09-02T23:20:48.537992"
+        }, 
+        {
+            "content": "23855 individuals reported at Sulaymaniyah  in Iraq", 
+            "createdAt": "2014-09-02T23:20:48.892336", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Iraq", 
+                    "adminArea3": "Sulaymaniyah"
+                }, 
+                "coords": [
+                    45.442406, 
+                    35.551354
+                ]
+            }, 
+            "id": "UaOUJcL9QeOEM8MN5E7WWg", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-09-02T15:17:46", 
+            "remoteID": "syria_ulaymaniyah_1409671066", 
+            "source": "unhcr", 
+            "summary": "23855 individuals reported at Sulaymaniyah  in Iraq", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 23855, 
+            "updatedAt": "2014-09-02T23:20:48.892349"
+        }, 
+        {
+            "content": "1798 individuals reported at Refugees Dispersed in Iraq in Iraq", 
+            "createdAt": "2014-09-02T23:20:48.435725", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Iraq", 
+                    "adminArea3": "Refugees Dispersed in Iraq "
+                }, 
+                "coords": [
+                    42.868652, 
+                    31.970804
+                ]
+            }, 
+            "id": "-D589QjHSqm8RNGrBWME9Q", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-09-02T14:59:30", 
+            "remoteID": "syria_efugeesispersedinraq_1409669970", 
+            "source": "unhcr", 
+            "summary": "1798 individuals reported at Refugees Dispersed in Iraq in Iraq", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 1798, 
+            "updatedAt": "2014-09-02T23:20:48.435734"
+        }, 
+        {
+            "content": "631 individuals reported at Kirkuk Non-Camp Refugees in Iraq", 
+            "createdAt": "2014-09-02T23:20:48.308320", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Iraq", 
+                    "adminArea3": "Kirkuk"
+                }, 
+                "coords": [
+                    0, 
+                    0
+                ]
+            }, 
+            "id": "6wNpqrkTSIipJ_oxC14x5Q", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-09-02T14:55:38", 
+            "remoteID": "syria_irkukonampefugees_1409669738", 
+            "source": "unhcr", 
+            "summary": "631 individuals reported at Kirkuk Non-Camp Refugees in Iraq", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 631, 
+            "updatedAt": "2014-09-02T23:20:48.308329"
+        }, 
+        {
+            "content": "4529 individuals reported at Anbar in Iraq", 
+            "createdAt": "2014-09-02T23:20:48.826340", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Iraq", 
+                    "adminArea3": "Anbar"
+                }, 
+                "coords": [
+                    41.1292, 
+                    34.357235
+                ]
+            }, 
+            "id": "pjaP-sysRW-hPcJyimEVhQ", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-09-02T13:48:13", 
+            "remoteID": "syria_nbar_1409665693", 
+            "source": "unhcr", 
+            "summary": "4529 individuals reported at Anbar in Iraq", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 4529, 
+            "updatedAt": "2014-09-02T23:20:48.826349"
+        }, 
+        {
+            "content": "1344 individuals reported at Ninewa Non-Camp Refugees in Iraq", 
+            "createdAt": "2014-09-02T23:20:48.278809", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Iraq", 
+                    "adminArea3": "Ninewa"
+                }, 
+                "coords": [
+                    0, 
+                    0
+                ]
+            }, 
+            "id": "uMmQS1pjTVmyOk-rotNmZg", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-09-02T13:46:26", 
+            "remoteID": "syria_inewaonampefugees_1409665586", 
+            "source": "unhcr", 
+            "summary": "1344 individuals reported at Ninewa Non-Camp Refugees in Iraq", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 1344, 
+            "updatedAt": "2014-09-02T23:20:48.278820"
+        }, 
+        {
+            "content": "88699 individuals reported at Erbil  in Iraq", 
+            "createdAt": "2014-09-02T23:20:48.493097", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Iraq", 
+                    "adminArea3": "Erbil"
+                }, 
+                "coords": [
+                    44.0091, 
+                    36.19111
+                ]
+            }, 
+            "id": "lG1B6JHjTjmbjnb-kXV7EQ", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-09-02T13:10:41", 
+            "remoteID": "syria_rbil_1409663441", 
+            "source": "unhcr", 
+            "summary": "88699 individuals reported at Erbil  in Iraq", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 88699, 
+            "updatedAt": "2014-09-02T23:20:48.493107"
+        }, 
+        {
+            "content": "94447 individuals reported at Duhok  in Iraq", 
+            "createdAt": "2014-09-02T23:20:48.605147", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Iraq", 
+                    "adminArea3": "Duhok"
+                }, 
+                "coords": [
+                    43, 
+                    36.866667
+                ]
+            }, 
+            "id": "mtaFwEjVQFqwFOSupr1THw", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-09-02T13:06:05", 
+            "remoteID": "syria_uhok_1409663165", 
+            "source": "unhcr", 
+            "summary": "94447 individuals reported at Duhok  in Iraq", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 94447, 
+            "updatedAt": "2014-09-02T23:20:48.605156"
+        }, 
+        {
+            "content": "2791 individuals reported at Akobo in Ethiopia", 
+            "createdAt": "2014-09-02T23:20:47.094101", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Ethiopia", 
+                    "adminArea3": "Gambella"
+                }, 
+                "coords": [
+                    33.03333, 
+                    7.81667
+                ]
+            }, 
+            "id": "yL_iyYORT4K6-0dT4QOOrw", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-09-01T18:59:11", 
+            "remoteID": "southsudan_kobo_1409597951", 
+            "source": "unhcr", 
+            "summary": "2791 individuals reported at Akobo in Ethiopia", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 2791, 
+            "updatedAt": "2014-09-02T23:20:47.094110"
+        }, 
+        {
+            "content": "77173 from 19352 households reported at Ifo Ref. Camp in Kenya", 
+            "createdAt": "2014-09-02T23:20:43.398410", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Kenya", 
+                    "adminArea3": "Dadaab"
+                }, 
+                "coords": [
+                    40.313466, 
+                    0.110722
+                ]
+            }, 
+            "id": "F5AAwfX2SGCjN626p1sETg", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T20:10:04", 
+            "remoteID": "horn_foefamp_1409515804", 
+            "source": "unhcr", 
+            "summary": "77173 from 19352 households reported at Ifo Ref. Camp in Kenya", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 77173, 
+            "updatedAt": "2014-09-02T23:20:43.398421"
+        }, 
+        {
+            "content": "51141 from 11291 households reported at Ifo 2 Ref. Camp in Kenya", 
+            "createdAt": "2014-09-02T23:20:43.467458", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Kenya", 
+                    "adminArea3": "Dadaab"
+                }, 
+                "coords": [
+                    40.32945, 
+                    0.14682
+                ]
+            }, 
+            "id": "9oNrDXV2The35_oldEJGrg", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T20:07:14", 
+            "remoteID": "horn_foefamp_1409515634", 
+            "source": "unhcr", 
+            "summary": "51141 from 11291 households reported at Ifo 2 Ref. Camp in Kenya", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 51141, 
+            "updatedAt": "2014-09-02T23:20:43.467467"
+        }, 
+        {
+            "content": "85906 from 20592 households reported at Dagahaley Ref. Camp in Kenya", 
+            "createdAt": "2014-09-02T23:20:43.364310", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Kenya", 
+                    "adminArea3": "Dadaab"
+                }, 
+                "coords": [
+                    40.28261, 
+                    0.188956
+                ]
+            }, 
+            "id": "zdbNi1wxSSSgwWq22t3k_A", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T20:04:29", 
+            "remoteID": "horn_agahaleyefamp_1409515469", 
+            "source": "unhcr", 
+            "summary": "85906 from 20592 households reported at Dagahaley Ref. Camp in Kenya", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 85906, 
+            "updatedAt": "2014-09-02T23:20:43.364319"
+        }, 
+        {
+            "content": "105162 from 26814 households reported at Hagadera Ref. Camp in Kenya", 
+            "createdAt": "2014-09-02T23:20:43.346135", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Kenya", 
+                    "adminArea3": "Dadaab"
+                }, 
+                "coords": [
+                    40.374657, 
+                    0.003347
+                ]
+            }, 
+            "id": "dKAaTxWRTf-hjj5gzkfvrw", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T20:01:36", 
+            "remoteID": "horn_agaderaefamp_1409515296", 
+            "source": "unhcr", 
+            "summary": "105162 from 26814 households reported at Hagadera Ref. Camp in Kenya", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 105162, 
+            "updatedAt": "2014-09-02T23:20:43.346145"
+        }, 
+        {
+            "content": "20224 from 4263 households reported at Kambioos Ref. Camp in Kenya", 
+            "createdAt": "2014-09-02T23:20:43.514322", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "Kenya", 
+                    "adminArea3": "Dadaab"
+                }, 
+                "coords": [
+                    40.371812, 
+                    -0.044804
+                ]
+            }, 
+            "id": "6DPvZViMQku-AItbTuwp-g", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T20:00:56", 
+            "remoteID": "horn_ambioosefamp_1409515256", 
+            "source": "unhcr", 
+            "summary": "20224 from 4263 households reported at Kambioos Ref. Camp in Kenya", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 20224, 
+            "updatedAt": "2014-09-02T23:20:43.514331"
+        }, 
+        {
+            "content": "17513 individuals reported at Gendrassa in South Sudan", 
+            "createdAt": "2014-09-02T23:20:46.675427", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "South Sudan", 
+                    "adminArea3": "Upper Nile"
+                }, 
+                "coords": [
+                    33.616, 
+                    9.978
+                ]
+            }, 
+            "id": "Y-m7M8pDRvmJigEbtM8pfQ", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T18:06:40", 
+            "remoteID": "southsudan_endrassa_1409508400", 
+            "source": "unhcr", 
+            "summary": "17513 individuals reported at Gendrassa in South Sudan", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 17513, 
+            "updatedAt": "2014-09-02T23:20:46.675436"
+        }, 
+        {
+            "content": "166 individuals reported at Renk in South Sudan", 
+            "createdAt": "2014-09-02T23:20:47.396281", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "South Sudan", 
+                    "adminArea3": "Upper Nile"
+                }, 
+                "coords": [
+                    0, 
+                    0
+                ]
+            }, 
+            "id": "jVAQXuJXRtOO0MvIkqsT9Q", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T17:59:18", 
+            "remoteID": "southsudan_enk_1409507958", 
+            "source": "unhcr", 
+            "summary": "166 individuals reported at Renk in South Sudan", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 166, 
+            "updatedAt": "2014-09-02T23:20:47.396290"
+        }, 
+        {
+            "content": "112 individuals reported at Malakal in South Sudan", 
+            "createdAt": "2014-09-02T23:20:47.476149", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "South Sudan", 
+                    "adminArea3": "Upper Nile"
+                }, 
+                "coords": [
+                    0, 
+                    0
+                ]
+            }, 
+            "id": "q2eXA1p9SY2OROJUOrTm8A", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T17:57:42", 
+            "remoteID": "southsudan_alakal_1409507862", 
+            "source": "unhcr", 
+            "summary": "112 individuals reported at Malakal in South Sudan", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 112, 
+            "updatedAt": "2014-09-02T23:20:47.476158"
+        }, 
+        {
+            "content": "49253 individuals reported at Doro in South Sudan", 
+            "createdAt": "2014-09-02T23:20:46.515630", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "South Sudan", 
+                    "adminArea3": "Upper Nile"
+                }, 
+                "coords": [
+                    33.825531, 
+                    9.976653
+                ]
+            }, 
+            "id": "6ml_RAwJQYKg7aea5oFUrQ", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T17:51:14", 
+            "remoteID": "southsudan_oro_1409507474", 
+            "source": "unhcr", 
+            "summary": "49253 individuals reported at Doro in South Sudan", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 49253, 
+            "updatedAt": "2014-09-02T23:20:46.515639"
+        }, 
+        {
+            "content": "775 individuals reported at Tambura in South Sudan", 
+            "createdAt": "2014-09-02T23:20:47.337305", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "South Sudan", 
+                    "adminArea3": "Western Equatoria"
+                }, 
+                "coords": [
+                    0, 
+                    0
+                ]
+            }, 
+            "id": "TY3kHFcFRzKfs3KKER570g", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T17:46:50", 
+            "remoteID": "southsudan_ambura_1409507210", 
+            "source": "unhcr", 
+            "summary": "775 individuals reported at Tambura in South Sudan", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 775, 
+            "updatedAt": "2014-09-02T23:20:47.337314"
+        }, 
+        {
+            "content": "990 individuals reported at Source Yubu in South Sudan", 
+            "createdAt": "2014-09-02T23:20:47.299483", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "South Sudan", 
+                    "adminArea3": "Western Equatoria"
+                }, 
+                "coords": [
+                    27.25, 
+                    5.4
+                ]
+            }, 
+            "id": "iFqk6qYDRla66IiHxHV7xQ", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T17:46:11", 
+            "remoteID": "southsudan_ourceubu_1409507171", 
+            "source": "unhcr", 
+            "summary": "990 individuals reported at Source Yubu in South Sudan", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 990, 
+            "updatedAt": "2014-09-02T23:20:47.299493"
+        }, 
+        {
+            "content": "284 individuals reported at Naandi in South Sudan", 
+            "createdAt": "2014-09-02T23:20:47.508690", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "South Sudan", 
+                    "adminArea3": "Western Equatoria"
+                }, 
+                "coords": [
+                    27.82818, 
+                    4.99273
+                ]
+            }, 
+            "id": "o4GcwoLdSAe4cirRgkFA5w", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T17:45:35", 
+            "remoteID": "southsudan_aandi_1409507135", 
+            "source": "unhcr", 
+            "summary": "284 individuals reported at Naandi in South Sudan", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 284, 
+            "updatedAt": "2014-09-02T23:20:47.508699"
+        }, 
+        {
+            "content": "379 individuals reported at Maridi in South Sudan", 
+            "createdAt": "2014-09-02T23:20:47.378282", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "South Sudan", 
+                    "adminArea3": "Western Equatoria"
+                }, 
+                "coords": [
+                    0, 
+                    0
+                ]
+            }, 
+            "id": "r4iJF7JPRuKObkNoa78mKg", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T17:44:51", 
+            "remoteID": "southsudan_aridi_1409507091", 
+            "source": "unhcr", 
+            "summary": "379 individuals reported at Maridi in South Sudan", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 379, 
+            "updatedAt": "2014-09-02T23:20:47.378291"
+        }, 
+        {
+            "content": "3270 individuals reported at Makpandu in South Sudan", 
+            "createdAt": "2014-09-02T23:20:47.459845", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "South Sudan", 
+                    "adminArea3": "Western Equatoria"
+                }, 
+                "coords": [
+                    28.646111, 
+                    4.854722
+                ]
+            }, 
+            "id": "5ikn6fyrQj-Xg14hbKmoBA", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T17:43:24", 
+            "remoteID": "southsudan_akpandu_1409507004", 
+            "source": "unhcr", 
+            "summary": "3270 individuals reported at Makpandu in South Sudan", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 3270, 
+            "updatedAt": "2014-09-02T23:20:47.459855"
+        }, 
+        {
+            "content": "3391 individuals reported at Ezo in South Sudan", 
+            "createdAt": "2014-09-02T23:20:47.494013", 
+            "geo": {
+                "addressComponents": {
+                    "adminArea1": "South Sudan", 
+                    "adminArea3": "Western Equatoria"
+                }, 
+                "coords": [
+                    27.4721, 
+                    5.07061
+                ]
+            }, 
+            "id": "DNFzofJqQVyx28Vt9zfIXQ", 
+            "license": "unknown", 
+            "lifespan": "temporary", 
+            "publishedAt": "2014-08-31T17:40:21", 
+            "remoteID": "southsudan_zo_1409506821", 
+            "source": "unhcr", 
+            "summary": "3391 individuals reported at Ezo in South Sudan", 
+            "tags": [
+                {
+                    "confidence": 1, 
+                    "name": "refugee"
+                }
+            ], 
+            "totalAffectedPersons": 3391, 
+            "updatedAt": "2014-09-02T23:20:47.494022"
+        }
+    ], 
+    "total": 1507
+}
