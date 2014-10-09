@@ -5,17 +5,18 @@ def correlateDataPoints(weatherData, refugeeData, distanceThreshold, units='mile
     """
     import json
     results = []
-    for refugeeDataPoint in refugeeData['data']:
+    for refugeeDataPoint in refugeeData['data']: 
         for weatherDataPoint in weatherData['data']:
-            if refugeeData.has_key('geo') is None:
-                print "Skipping refugee record because missing 'geo': " + refugeeData
+            if not refugeeDataPoint.has_key('geo') or not refugeeDataPoint['geo'].has_key('coords'):
+                print "Skipping refugee record because missing 'geo': " # + json.dumps(refugeeData, indent=4, sort_keys=True)
                 continue
-            if weatherData.has_key('geo') is None:
-                print "Skipping weather record because missing 'geo': " + weatherData
+            if not weatherDataPoint.has_key('geo') or not weatherDataPoint['geo'].has_key('coords'):
+                print "Skipping weather record because missing 'geo': " # + json.dumps(weatherData, indent=4, sort_keys=True)
                 continue
             weatherCoords = weatherDataPoint['geo']['coords']
-            refugeeCoords = refugeeData['geo']['coords']
+            refugeeCoords = refugeeDataPoint['geo']['coords']
             distance = GPSProximity(weatherCoords, refugeeCoords, units)
+            print "Distance between two points " + str(distance)
             if distance < distanceThreshold:
                 results.append([refugeeCoords, weatherCoords])
 
