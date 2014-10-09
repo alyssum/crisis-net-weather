@@ -3,7 +3,12 @@
  <head>
   <meta charset="UTF-8">
   <title>Weather Crisis</title>
-  
+  <style type="text/css">
+  	body {
+  		margin: 0;
+  		overflow: hidden;
+  	}
+  </style>
  </head>
  <body>
   <div id="container"style="position: absolute; width: 100%; height: 100%;"></div>
@@ -30,7 +35,8 @@
 		    return {path: path, projection: projection};
 		  },
 		  fills: {
-		    defaultFill: '#000000'
+		    defaultFill: '#cccccc',
+		    bubble: '#FF0000'
 		  }
   	});
 
@@ -43,8 +49,9 @@
 		  	entry.individuals = val.individuals;
 		  	entry.latitude = val.coords[0];
 		  	entry.longitude = val.coords[1];
-		  	entry.radius = 15;
+		  	entry.radius = val.individuals/2000 + 10;
 		  	entry.name = val.geo_id.primary_area;
+		  	entry.fillKey = 'bubble';
 		    bubbleData.push(entry);
 		  });
 
