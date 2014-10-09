@@ -5,7 +5,7 @@ def correlateDataPoints(weatherData, refugeeData, distanceThreshold, units='mile
     which occcur within x distance of each other
     """
     import json
-    from GPSProximity import *
+    from GPSProximity import GPSProximity
     results = []
     for refugeeDataPoint in refugeeData['data']: 
         for weatherDataPoint in weatherData['data']:
