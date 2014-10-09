@@ -2,30 +2,119 @@
 <html>
  <head>
   <meta charset="UTF-8">
-  <title>title</title>
+  <title>Weather Crisis</title>
+  
  </head>
  <body>
-  
+  <div id="container"style="position: absolute; width: 100%; height: 100%;"></div>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
   <script src="http://d3js.org/topojson.v1.min.js"></script>
+  <script src="geo/datamaps-world-min.js"></script>
   <script>
+  	var bubble_map = new Datamap({element: document.getElementById('container'),
+		  geographyConfig: {
+		    popupOnHover: false,
+		    highlightOnHover: false
+		  },
+		  // Zoom in on Africa
+		  setProjection: function(element) {
+		    var projection = d3.geo.equirectangular()
+		      .center([23, 26])
+		      .rotate([0, 0])
+		      .scale(500)
+		      .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
+		    var path = d3.geo.path()
+		      .projection(projection);
+		    
+		    return {path: path, projection: projection};
+		  },
+		  fills: {
+		    defaultFill: '#000000'
+		  }
+  	});
 
-  		var width = 960,
-			height = 1160;
+  	// Initialize bubbles 
+  	// Get Refugee camp data and parse into object
+  	var bubbleData = []; 
+  	$.getJSON("testdata/parsedUNHCRdata.json", function( data ) {
+		  $.each(data, function( key, val ) {
+		  	var entry = {}; 
+		  	entry.individuals = val.individuals;
+		  	entry.latitude = val.coords[0];
+		  	entry.longitude = val.coords[1];
+		  	entry.radius = 15;
+		  	entry.name = val.geo_id.primary_area;
+		    bubbleData.push(entry);
+		  });
 
-		var svg = d3.select("body").append("svg")
-		    .attr("width", width)
-		    .attr("height", height);
-
-  	d3.json("geo/globalmap.json", function(error, globe) {
-	  if (error) return console.error(error);
-	  console.log(globe);
-
-		svg.append("path")
-		      .datum(topojson.feature(globe, globe.objects.collection))
-		      .attr("d", d3.geo.path().projection(d3.geo.mercator()));
+	}).done(function(){
+	  	console.log(bubbleData);
+	  	// Congifure bubble popup
+		bubble_map.bubbles(bubbleData, {
+		  popupTemplate: function(geo, data) {
+		    return '<div class="hoverinfo">Location: ' + data.name + '<br>Number of Individuals ' + data.individuals + "<br> Latitude: " + data.latitude + "<br> Longitude: " + data.longitude;
+		  }
+		});
 	});
+
+  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ //  		var width = 1224,
+	// 		height = 1160;
+
+	// 	var svg = d3.select("body").append("svg")
+	// 	    .attr("width", width)
+	// 	    .attr("height", height);
+
+ //  	d3.json("geo/globalmap.json", function(error, globe) {
+	//   if (error) return console.error(error);
+	//   console.log(globe);
+	//   	var subunits = topojson.feature(globe, globe.objects.collection);
+
+	// 	svg.append("path")
+	// 	      .datum(subunits)
+	// 	      .attr("d", d3.geo.path().projection(d3.geo.mercator().scale(180)
+	// 	    .translate([width / 2, height / 2])));
+
+	// 	$.getJSON( "testUNHCRdata.json", function( data ) {
+	// 		  $.each( data, function( key, val ) {
+			    
+	// 		  });
+
+	// 		 svg.append("path")
+	// 			    .datum(topojson.feature(data, data))
+	// 			    .attr("d", path)
+	// 			    .attr("class", "place");
+
+	// 		svg.selectAll(".place-label")
+	// 		    .data(topojson.feature(data, data).features)
+	// 		  .enter().append("text")
+	// 		    .attr("class", "place-label")
+	// 		    .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
+	// 		    .attr("dy", ".35em")
+	// 		    .text(function(d) { return d.properties.name; });
+	// 		});
+	// });
 
 
   </script>
