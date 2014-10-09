@@ -5,7 +5,11 @@
             33.2305, 
             8.42424
         ], 
-        "id": "BaoKToSnRZWU4qexeG05VA"
+        "id": "BaoKToSnRZWU4qexeG05VA", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 139289, 
@@ -13,7 +17,11 @@
             31.2357116, 
             30.0444196
         ], 
-        "id": "lSldLiHBRPCPe_u2KRNS7g"
+        "id": "lSldLiHBRPCPe_u2KRNS7g", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 23855, 
@@ -21,7 +29,11 @@
             45.442406, 
             35.551354
         ], 
-        "id": "UaOUJcL9QeOEM8MN5E7WWg"
+        "id": "UaOUJcL9QeOEM8MN5E7WWg", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 1798, 
@@ -29,7 +41,11 @@
             42.868652, 
             31.970804
         ], 
-        "id": "-D589QjHSqm8RNGrBWME9Q"
+        "id": "-D589QjHSqm8RNGrBWME9Q", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 631, 
@@ -37,7 +53,11 @@
             0, 
             0
         ], 
-        "id": "6wNpqrkTSIipJ_oxC14x5Q"
+        "id": "6wNpqrkTSIipJ_oxC14x5Q", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 4529, 
@@ -45,7 +65,11 @@
             41.1292, 
             34.357235
         ], 
-        "id": "pjaP-sysRW-hPcJyimEVhQ"
+        "id": "pjaP-sysRW-hPcJyimEVhQ", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 1344, 
@@ -53,7 +77,11 @@
             0, 
             0
         ], 
-        "id": "uMmQS1pjTVmyOk-rotNmZg"
+        "id": "uMmQS1pjTVmyOk-rotNmZg", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 88699, 
@@ -61,7 +89,11 @@
             44.0091, 
             36.19111
         ], 
-        "id": "lG1B6JHjTjmbjnb-kXV7EQ"
+        "id": "lG1B6JHjTjmbjnb-kXV7EQ", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 94447, 
@@ -69,7 +101,11 @@
             43, 
             36.866667
         ], 
-        "id": "mtaFwEjVQFqwFOSupr1THw"
+        "id": "mtaFwEjVQFqwFOSupr1THw", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 2791, 
@@ -77,7 +113,11 @@
             33.03333, 
             7.81667
         ], 
-        "id": "yL_iyYORT4K6-0dT4QOOrw"
+        "id": "yL_iyYORT4K6-0dT4QOOrw", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 77173, 
@@ -85,7 +125,11 @@
             40.313466, 
             0.110722
         ], 
-        "id": "F5AAwfX2SGCjN626p1sETg"
+        "id": "F5AAwfX2SGCjN626p1sETg", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 51141, 
@@ -93,7 +137,11 @@
             40.32945, 
             0.14682
         ], 
-        "id": "9oNrDXV2The35_oldEJGrg"
+        "id": "9oNrDXV2The35_oldEJGrg", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 85906, 
@@ -101,7 +149,11 @@
             40.28261, 
             0.188956
         ], 
-        "id": "zdbNi1wxSSSgwWq22t3k_A"
+        "id": "zdbNi1wxSSSgwWq22t3k_A", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 105162, 
@@ -109,7 +161,11 @@
             40.374657, 
             0.003347
         ], 
-        "id": "dKAaTxWRTf-hjj5gzkfvrw"
+        "id": "dKAaTxWRTf-hjj5gzkfvrw", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 20224, 
@@ -117,7 +173,11 @@
             40.371812, 
             -0.044804
         ], 
-        "id": "6DPvZViMQku-AItbTuwp-g"
+        "id": "6DPvZViMQku-AItbTuwp-g", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 17513, 
@@ -125,7 +185,11 @@
             33.616, 
             9.978
         ], 
-        "id": "Y-m7M8pDRvmJigEbtM8pfQ"
+        "id": "Y-m7M8pDRvmJigEbtM8pfQ", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 166, 
@@ -133,7 +197,11 @@
             0, 
             0
         ], 
-        "id": "jVAQXuJXRtOO0MvIkqsT9Q"
+        "id": "jVAQXuJXRtOO0MvIkqsT9Q", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 112, 
@@ -141,7 +209,11 @@
             0, 
             0
         ], 
-        "id": "q2eXA1p9SY2OROJUOrTm8A"
+        "id": "q2eXA1p9SY2OROJUOrTm8A", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 49253, 
@@ -149,7 +221,11 @@
             33.825531, 
             9.976653
         ], 
-        "id": "6ml_RAwJQYKg7aea5oFUrQ"
+        "id": "6ml_RAwJQYKg7aea5oFUrQ", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 775, 
@@ -157,7 +233,11 @@
             0, 
             0
         ], 
-        "id": "TY3kHFcFRzKfs3KKER570g"
+        "id": "TY3kHFcFRzKfs3KKER570g", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 990, 
@@ -165,7 +245,11 @@
             27.25, 
             5.4
         ], 
-        "id": "iFqk6qYDRla66IiHxHV7xQ"
+        "id": "iFqk6qYDRla66IiHxHV7xQ", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 284, 
@@ -173,7 +257,11 @@
             27.82818, 
             4.99273
         ], 
-        "id": "o4GcwoLdSAe4cirRgkFA5w"
+        "id": "o4GcwoLdSAe4cirRgkFA5w", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 379, 
@@ -181,7 +269,11 @@
             0, 
             0
         ], 
-        "id": "r4iJF7JPRuKObkNoa78mKg"
+        "id": "r4iJF7JPRuKObkNoa78mKg", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 3270, 
@@ -189,7 +281,11 @@
             28.646111, 
             4.854722
         ], 
-        "id": "5ikn6fyrQj-Xg14hbKmoBA"
+        "id": "5ikn6fyrQj-Xg14hbKmoBA", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }, 
     {
         "individuals": 3391, 
@@ -197,6 +293,10 @@
             27.4721, 
             5.07061
         ], 
-        "id": "DNFzofJqQVyx28Vt9zfIXQ"
+        "id": "DNFzofJqQVyx28Vt9zfIXQ", 
+        "geo_id": {
+            "secondary_area": "Western Equatoria", 
+            "primary_area": "South Sudan"
+        }
     }
 ]
