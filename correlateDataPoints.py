@@ -1,9 +1,11 @@
+
 def correlateDataPoints(weatherData, refugeeData, distanceThreshold, units='miles'):
     """
     Finds intersection of two lists of CrisisNet records
     which occcur within x distance of each other
     """
     import json
+    from GPSProximity import *
     results = []
     for refugeeDataPoint in refugeeData['data']: 
         for weatherDataPoint in weatherData['data']:
